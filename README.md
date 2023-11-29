@@ -1,2 +1,2 @@
 # discord_bot
-Discord bot
+Trying to create a simple discord bot
