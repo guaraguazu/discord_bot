@@ -1,6 +1,5 @@
 import random
-
-
+import datetime as dt
 
 def handle_response(message) -> str:
     p_message = message.lower()
@@ -18,7 +17,6 @@ def handle_response(message) -> str:
 
     return 'I dont understand'
 
-options = ['Hello','Roll','!Help']
-r_help = f'I am a limited bot, so far my options are: ', (for i in options: print(i))}
+r_help ='I am a simple bot, my list of commands are: hello, roll, !help'
 
 

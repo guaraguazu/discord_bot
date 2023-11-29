@@ -1,9 +1,6 @@
 import discord
 import responses
 from bot_token import bot_token as btoken
-from bot_intents import default_intents
-
-
 
 async def send_message(message, user_message, is_private):
     try:
