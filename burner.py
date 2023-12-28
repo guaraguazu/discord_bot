@@ -5,3 +5,4 @@ def index_print(block):
 lista0 = ['1','2','3','4','5']
 
 index_print(lista0)
+
